@@ -30,5 +30,8 @@ Twitter: [@McMunyaka](https://twitter.com/McMunyaka)
 
 ## Sponsor
 
-Support me so that I can continue working on new projects.
+Support my passion for sharing development knowledge by making a donation to my **Buy Me a Coffee** account. Your contribution helps me create valuable content and resources. Thank you for your support!
+
 [![Buy Me A Coffee Banner](buymeacoffee.png)](https://www.buymeacoffee.com/markmunyaka)
+
+[Buy Me A Coffee](https://www.buymeacoffee.com/markmunyaka)
